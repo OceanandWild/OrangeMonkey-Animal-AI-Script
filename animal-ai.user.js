@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  Agrega un botón que redirige a otra web en Animal AI
 // @match        https://oceanandwild.github.io/Animal-AI-Official-Website/*
-// @updateURL    https://oceanandwild.github.io/OrangeMonkey-Animal-AI-Script/package.json  // Cambia esta URL a tu archivo JSON
+// @updateURL    https://oceanandwild.github.io/OrangeMonkey-Animal-AI-Script/package.json
 // @grant        none
 
 // ==/UserScript==
